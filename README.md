@@ -75,4 +75,4 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KIMMIN5&layout=compact&theme=radical)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=your_boj_username)](https://solved.ac/profile/your_boj_username)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mo0801)](https://solved.ac/profile/mo0801)
