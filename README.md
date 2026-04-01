@@ -1,7 +1,7 @@
 # 👋 MINO KIM — Backend Developer with Exceptional Execution
 
 > **"실행력으로 증명하는 백엔드 개발자"**
-> 80× 성능 향상 · 누적 사용자 50만+ · 0 다운타임 · 자격증 3+
+> 80× 성능 향상 · 누적 사용자 50만+ · 0 다운타임 · 자격증 3
 
 📧 alsdh1111@naver.com · 📝 [Notion Portfolio](https://www.notion.so/13be068e7bd38099b647f21d54130737?source=copy_link) · ✍️ [Velog](https://velog.io/@mo0801/posts)
 
@@ -73,17 +73,17 @@
 ---
 
 ### KIMM 현장실습
-> 한국기계연구원 현장실습 — YOLO 기반 실시간 객체 탐지 모델 고도화 및 산업 데이터 파이프라인 구축
+> 한국기계연구원 현장실습 — 로봇팔 기반 실시간 스트리밍 환경에서 사과나무 병충해 조기 탐지, YOLOv8 고도화 및 SAM 기반 오토 라벨링
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 ---
 
-### BRS (Bus Recommendation System)
-> KoBERT 감성 분석 기반 버스 노선 추천 서비스 — 리뷰 데이터 전처리부터 추론 API 서빙까지
+### BRS (Book Recommendation System)
+> KoBERT 기반 도서 카테고리 자동 분류 + 사용자 피드백 실시간 반영 맞춤형 도서 추천 서비스
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![KoBERT](https://img.shields.io/badge/KoBERT-FF6B6B?style=flat-square&logo=bert&logoColor=white)
@@ -95,13 +95,12 @@
 ---
 
 ### 밝게
-> 시각장애인을 위한 AI 길 안내 앱 — YOLO 실시간 장애물 감지 + Android 음성 안내 연동
+> 계명대학교 야간 안전 지도 Android 앱 — 가로등 위치 정보, 야간 수업 강의실 데이터, 실시간 긴급 신고 기능 제공
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 🔗 [GitHub](https://github.com/KIMMIN5/Brightly)
 
@@ -111,22 +110,23 @@
 
 | 기간 | 기관 | 역할 |
 |------|------|------|
-| 2024.01 ~ 현재 | **삼성 청년 SW 아카데미 (SSAFY) 12기** | Java 백엔드 트랙 수료 |
-| 2023 | **UNIST 인턴** | 연구실 인턴 — 데이터 분석 및 AI 모델 실험 지원 |
-| 2023 | **한국기계연구원 (KIMM) 현장실습** | 비전 AI 모델 개발 및 산업 데이터 파이프라인 구축 |
-| 2023 | **알리익스프레스 글로벌 탐방** | 중국 커머스 물류·기술 벤치마킹 탐방 프로그램 참가 |
+| 2025 ~ 현재 | **삼성 청년 SW/AI 아카데미 (SSAFY) 15기** | Java 백엔드 트랙 — 알고리즘 및 Spring 기반 웹 풀스택 실무 역량 심화 |
+| 2025.07 ~ 2025.08 | **한국장학재단 푸른등대 알리익스프레스 기부장학생 (TOP 100)** | 항저우 알리익스프레스 본사 탐방 프로그램 참가 |
+| 2025.01 ~ 06 | **UNIST Data Intelligence Lab 인턴** | GNN 기반 추천시스템 연구, Cross-Domain Recommendation 논문 리뷰 |
+| 2024.07 ~ 07 | **한국기계연구원 (KIMM) 현장실습** | 로봇팔 기반 과수 병충해 탐지 AI 모델(YOLOv8) 개발 |
 
 ---
 
 ## 🏆 Certifications & Awards
 
 ### Certifications
-- 📜 **정보처리기사**
-- 📜 **SQLD (SQL 개발자)**
-- 📜 **ADsP (데이터분석 준전문가)**
+- 📜 **빅데이터분석기사** (2025.12)
+- 📜 **정보처리기사** (2025.09)
+- 📜 **SQLD** (2024.09)
+- 🌐 **TOEIC Speaking IM3** (2025.10)
 
 ### Awards
-- 🥇 **계명아이디어톤 수상** — AI·IoT 융합 아이디어 경진대회 수상
+- 🥇 **제 6회 계명아이디어톤 우수상 (총장상)**
 
 ---
 
